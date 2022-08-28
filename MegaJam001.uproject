@@ -19,11 +19,11 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
+			"Name": "OculusVR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Linux"
+				"Android"
 			]
 		}
 	],
